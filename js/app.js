@@ -1,5 +1,5 @@
 let toDo = document.querySelector(".toDo");
-let removeElem = document.querySelectorAll(".remove");
+//let removeElem = document.querySelectorAll(".remove");
 let counterID = 1;
 toDo.addEventListener('click', function (e) {
     let target = e.target;
